@@ -22,7 +22,7 @@
 </code></pre>
 
 <p>In this example, there are 5 islands and 5 bidirectional boat routes. The port state change time is 3 minutes, and the travel time between islands is 5 minutes. The following lines show the connections between islands and the starting and ending points.</p>
-test
+
 <h4>Output:</h4>
 <p>The first line of the output should print an integer <b>K</b>, representing the number of islands you need to visit to reach island <b>Y</b> from island <b>X</b>.</p>
 <p>The second line should print <b>K</b> space-separated integers denoting the path that takes the minimum amount of time (in minutes) to move from island <b>X</b> to island <b>Y</b>.</p>
